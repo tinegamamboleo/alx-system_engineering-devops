@@ -1,0 +1,1 @@
+ALX software engineering. This directory contains shell basics
