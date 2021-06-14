@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -.js "*.bak" -type f -delete
