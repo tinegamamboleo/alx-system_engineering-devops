@@ -1,0 +1,6 @@
+#!/bin/bash
+<command>;
+if [[ "&?" =0 ]];
+then echo ':';
+else echo ':(';
+fi
